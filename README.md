@@ -8,4 +8,4 @@ People have been widely using online platforms such as blogs, websites, discussi
  o Classification
  o Modelling of IMDB dataset (compared three models – GaussianNB, BernoulliNB, MultinomialNB)
  o Deployment on Telegram Chatbot
-• Software/Tools/Programming Language Used: Python, NumPy, Pandas, Matplotlib, Plotly, Tweepy, Textblob, Vader, Flair, Twint, Telegram
+ • Software/Tools/Programming Language Used: Python, NumPy, Pandas, Matplotlib, Plotly, Tweepy, Textblob, Vader, Flair, Twint, Telegram
